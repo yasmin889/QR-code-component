@@ -22,6 +22,7 @@ main .container {
     transform: translateY(-50%);
     border-radius: 15px;
     text-align: center;
+    box-shadow: rgb(137 148 169 / 26%) 0px 0px 10px;
 }
 picture img {
     width: 100%;
@@ -30,7 +31,7 @@ picture img {
 }
 section h1 {
 color: hsl(218, 44%, 22%);
-font-size: 21px;
+font-size: 23px;
 padding-top: 5px;
 }
 section p {
@@ -38,4 +39,6 @@ section p {
     color: hsl(220, 15%, 55%);
     line-height: 1.5;
     width: 260px;
+    margin-left: 7px;
+
 }
